@@ -1,0 +1,9 @@
+@ensdomains/=node_modules/@ensdomains/
+@openzeppelin/=node_modules/@openzeppelin/
+chimera/=lib/chimera/src/
+ds-test/=lib/chimera/lib/forge-std/lib/ds-test/src/
+forge-std/=lib/forge-std/src/
+hardhat/=node_modules/hardhat/
+setup-helpers/=lib/setup-helpers/src/
+@chimera/=lib/chimera/src/
+@recon/=lib/setup-helpers/src/

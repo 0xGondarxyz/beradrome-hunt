@@ -9,3 +9,8 @@ typechain-types
 cache
 artifacts
 
+
+# Coverage files
+crytic-export
+echidna
+medusa
